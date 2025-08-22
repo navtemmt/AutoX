@@ -13,7 +13,7 @@ plugins {
 android {
     compileSdk = versions.compile
     defaultConfig {
-        applicationId = "org.autojs.autoxjs"
+        applicationId = "org.myApp.js"
         minSdk = versions.mini
         targetSdk = versions.target
         versionCode = versions.appVersionCode
